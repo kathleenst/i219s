@@ -14,6 +14,7 @@
         <form method="post">
             <select name="phrase_01">
                 <option value="nette">nette</option>
+                <option value="nette2">nette</option>
                 <option value="bescheiden">bescheiden</option>
                 <option value="umwerfend">umwerfend</option>
             </select>   
